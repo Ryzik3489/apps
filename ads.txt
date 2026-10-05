@@ -1,0 +1,3 @@
+reklama.png
+sale.png
+newapp.png
