@@ -1,4 +1,2 @@
-Super Snake|Классическая змейка|1.4|games|ic_menu_compass
-Calculator Pro|Простой калькулятор|2.1|apps|ic_menu_edit
-NotePad|Блокнот|1.0|apps|ic_menu_agenda
-Tic-Tac-Toe|Крестики-нолики|1.5|games|ic_menu_add
+Super Snake|Классическая змейка|1.4|games|ic_menu_compass|Super Snake.apk
+Calculator Pro|Простой калькулятор|2.1|apps|ic_menu_edit|Calculator Pro.apk
